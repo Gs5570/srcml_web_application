@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+}
+
+.loginForm-container {
+  background-color: aliceblue;
+  width: 40%;
+  height: 100%;
+  margin: auto;
+}
+
+.loginForm-container {
+  border: rgb(247 105 2);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+}
+
+.container-logo {
+  text-align: center;
+}
+.container-logo logo-img {
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+}
+
+.logo-img {
+  margin: 15px;
+}
+
+.form-login {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: space-evenly;
+}
+
+.form-login label {
+  text-align: center;
+}
+
+.form-login button {
+  padding: 10px;
+  margin: 10px;
+}
+
+.form-login button:hover {
+  cursor: pointer;
+  color: aliceblue;
+  background-color: rgb(247 105 2);
+}
