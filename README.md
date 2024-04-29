@@ -68,6 +68,12 @@ Srcml web application is part of my master capstone project in which i am buildi
 
 ---
 
+first and foremost, install srcml
+
+```js
+[npm install](https://www.srcml.org/#download)
+```
+
 After cloning the repository in to your local computer. Run the command below in front-end and Back-end directory to install the dependencies.
 
 ```js
